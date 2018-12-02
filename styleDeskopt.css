@@ -1,0 +1,33 @@
+@media (min-width:1020px) {
+
+    .buttonAdd {
+        font-family: 'Righteous', cursive;
+        background-color: royalblue;
+        border: 2px solid orange;
+        color: white;
+        padding: 5px 10px;
+        border-radius: 10px;
+        position: absolute;
+        left: 28%;
+        right: 10%;
+        top: 100%;
+        width: 20vw;
+
+    }
+
+    div.list {
+        min-height: 50vh;
+        position: relative;
+        top: 25%;
+        border: 2px solid black;
+        box-shadow: 0px 0px 0px 2px orange, 0px 0px 5px 3px crimson;
+        border-radius: 10%;
+    }
+
+    li {
+        position: relative;
+        color: green;
+        left: 15%;
+        margin: 5px;
+    }
+}
